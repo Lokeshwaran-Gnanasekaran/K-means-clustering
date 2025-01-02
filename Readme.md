@@ -2,7 +2,7 @@
 
 **Overview:**
 
-             The goal of this project is to analyze the performance of the K-Means clustering algorithm on datasets with distinct characteristics. For the Iris dataset, we aim to group data points based on selected features, while for the handwritten images dataset, we explore clusters in high-dimensional pixel data.
+The goal of this project is to analyze the performance of the K-Means clustering algorithm on datasets with distinct characteristics. For the Iris dataset, we aim to group data points based on selected features, while for the handwritten images dataset, we explore clusters in high-dimensional pixel data.
 
 **Features:**
 
@@ -50,15 +50,4 @@ To determine the optimal K value, the Elbow Method iterates through K values fro
 
 	•	**Handwritten Images Dataset**: Clustering finalized with K=10 after t-SNE dimensionality reduction.
 
-## **Results**
-
-* **Accuracy**: 78% on the test set.  
-* **Optimal Parameters**:  
-  * Number of Neighbors (`k`): 13  
-  * Similarity Metric: Cosine Similarity  
-* **Feature Reduction**: Top 3000 features selected using Chi-squared tests.
-
-## **Acknowledgments:**
-
-## This project is part of the CS 584 (Data Mining) course at George Mason University, Fall 2023\.
 
