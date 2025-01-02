@@ -46,8 +46,8 @@ To determine the optimal K value, the Elbow Method iterates through K values fro
 
 **Results**
 
-* Iris Dataset**: Achieved clustering with K=3. SSE plots helped confirm the optimal K.
+* Iris Dataset: Achieved clustering with K=3. SSE plots helped confirm the optimal K.
 
-* Handwritten Images Dataset**: Clustering finalized with K=10 after t-SNE dimensionality reduction.
+* Handwritten Images Dataset: Clustering finalized with K=10 after t-SNE dimensionality reduction.
 
 
